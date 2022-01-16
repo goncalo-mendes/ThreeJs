@@ -1,7 +1,4 @@
-# Three.js - Template - Complex
-
-🚧 This template is under construction
-
+My Playground ThreeJs
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
